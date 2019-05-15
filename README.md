@@ -1,7 +1,11 @@
 # Cancer and Determinants of Health in the Southern USA : A Machine Learning Approach
 
 ## Executive Summary
-I am passionate about Cancer because this is one of the biggest challenges scientists and community health professionals are facing right now. Besides genetics, components of socio-economic framework affect the overall nutrition, stress level, life style and behaviors etc., which may affect the cancer prevalence and mortality. Collectively known as Determinants of Health (DoH)--are the factors that influence how likely we are to stay healthy or to become ill or injured. The circumstances in which we grow, live, work and age are called as social determinants include factors such as income, education, employment and social support. A person's health is also influenced by biomedical factors and health behaviors that are part of their individual lifestyle and genetic make-up. These factors can be positive in their effects (for example, being vaccinated against disease), or negative (for example, consuming alcohol at risky levels).
+Determinants of Health (DoH)-- are the factors that influence how likely we are to stay healthy or to become ill or injured. The circumstances in which we grow, live, work and age are called as social determinants include factors such as income, education, employment and social support. A person's health is also influenced by biomedical factors and health behaviors that are part of their individual lifestyle and genetic make-up. These factors can be positive in their effects (for example, being vaccinated against disease), or negative (for example, consuming alcohol at risky levels). 
+
+In context to cancer, components of socio-economic framework affect the overall nutrition, stress level, life style and behaviors etc., which may affect the cancer prevalence and mortality. 
+In this project, I will attempt to understand the relationship between determinants of health and cancer incidence and cancer deaths in the southern states of USA using machine learning approach. 
+
 
 In this project, I will attempt to understand the relationship between determinants of health and cancer incidence and cancer deaths in the southern states of USA using machine learning approach. 
 ### My hypothesis is that “Socio-economic and risky health behavior can predict the cancer incidence and death rate in southern state of USA at county level”.
