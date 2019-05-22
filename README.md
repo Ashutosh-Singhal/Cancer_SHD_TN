@@ -6,8 +6,6 @@ Determinants of Health (DoH)-- are the factors that influence how likely we are 
 In context to cancer, components of socio-economic framework affect the overall nutrition, stress level, life style and behaviors etc., which may affect the cancer prevalence and mortality. 
 In this project, I will attempt to understand the relationship between determinants of health and cancer incidence and cancer deaths in the southern states of USA using machine learning approach. 
 
-
-In this project, I will attempt to understand the relationship between determinants of health and cancer incidence and cancer deaths in the southern states of USA using machine learning approach. 
 ### My hypothesis is that “Socio-economic and risky health behavior can predict the cancer incidence and death rate in southern state of USA at county level”.
 
 To test this hypothesis, I downloaded cancer death and new cases data (age-matched and normalized to 100,000 people) of years 2011-2015 from CDC. The DoH factors data was downloaded from County Health Ranking (http://www.countyhealthrankings.org/). 
